@@ -14,11 +14,11 @@
         <li>composer update</li>
         <li>composer fund</li>
     </ul>
-    <li>Realizar una copia del archivo .env.example<li>
+    <li>Realizar una copia del archivo .env.example</li>
     <ul type="square">
         <li>cp .env.example .env</li>
     </ul>
-        <li>Generar APP_KEY que es una cadena de caracteres generada aleatoriamente por Laravel que utiliza para todas las cookies cifradas, como las cookies de sesión. Para generar la APP_KEY del proyecto ejecutar el siguiente comando <li>
+        <li>Generar APP_KEY que es una cadena de caracteres generada aleatoriamente por Laravel que utiliza para todas las cookies cifradas, como las cookies de sesión. Para generar la APP_KEY del proyecto ejecutar el siguiente comando </li>
     <ul type="square">
         <li>php artisan key:generate</li>
     </ul>
